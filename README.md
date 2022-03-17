@@ -8,6 +8,7 @@ the SDS011 dust sensor. After start, two curves are displayed.
 The user may select a .tsv file. If selected, all measured 
 data are appended until the program is closed.
 
+![screenshot](./blob/main/screenshot.jpg)
 
 Download and Compile
 --------------------
